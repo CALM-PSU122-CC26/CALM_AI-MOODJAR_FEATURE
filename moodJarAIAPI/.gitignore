@@ -1,0 +1,6 @@
+saved_cnn/
+saved_t5_model/
+venv/
+__pycache__/
+*.pyc
+.env

@@ -1,0 +1,6 @@
+saved_t5_model/
+saved_cnn/
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.pyc
